@@ -1,0 +1,43 @@
+INFO	2021-07-30 06:25:46,175	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 06:25:46 IST 2021
+INFO	2021-07-30 07:33:38,652	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 07:33:38 IST 2021
+INFO	2021-07-30 12:42:04,458	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 12:42:04 IST 2021
+INFO	2021-07-30 12:49:12,846	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 12:49:12 IST 2021
+INFO	2021-07-30 12:51:58,690	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 12:51:58 IST 2021
+ERROR	2021-07-30 12:52:34,705	36015	BankApp	[main]	Please enter valid input only.......
+INFO	2021-07-30 12:53:49,892	111202	BankApp	[main]	Customer status with Id 1 been progressed
+INFO	2021-07-30 12:54:12,535	133845	BankApp	[main]	Current balance of customer with customerId 1 INR 500
+INFO	2021-07-30 12:54:22,250	143560	BankApp	[main]	Rs 100 is withdrawn from the account with Id 1 and the remaining balance is INR 400
+INFO	2021-07-30 12:54:28,440	149750	BankApp	[main]	Rs 100 is deposited in the account with customerId 1 and the new balance is INR 500
+INFO	2021-07-30 12:54:36,629	157939	BankApp	[main]	customer with Id 1 has been updated
+ERROR	2021-07-30 12:54:45,708	167018	BankApp	[main]	Money cannot be transferred to same account
+INFO	2021-07-30 14:55:26,358	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 14:55:26 IST 2021
+INFO	2021-07-30 14:57:23,256	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 14:57:23 IST 2021
+INFO	2021-07-30 15:39:02,470	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 15:39:02 IST 2021
+INFO	2021-07-30 15:39:16,262	13792	BankApp	[main]	Customer status with Id 0 has been deleted
+INFO	2021-07-30 15:54:05,555	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 15:54:05 IST 2021
+INFO	2021-07-30 15:54:09,103	3548	BankApp	[main]	Developer details
+INFO	2021-07-30 15:54:09,103	3548	BankApp	[main]	Developed by Konari Sudharani
+INFO	2021-07-30 15:54:12,262	6707	BankApp	[main]	Help Line Number : 00000000
+INFO	2021-07-30 15:54:15,842	10287	BankApp	[main]	Developer details
+INFO	2021-07-30 15:54:15,842	10287	BankApp	[main]	Developed by Konari Sudharani
+INFO	2021-07-30 15:54:17,152	11597	BankApp	[main]	Help Line Number : 00000000
+INFO	2021-07-30 15:54:21,431	15876	BankApp	[main]	Frequently used questions
+INFO	2021-07-30 15:56:42,095	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 15:56:42 IST 2021
+INFO	2021-07-30 15:56:44,668	2573	BankApp	[main]	*******Create a new account**********
+INFO	2021-07-30 15:56:51,347	9252	BankApp	[main]	Help Line Number : 00000000
+INFO	2021-07-30 15:56:52,688	10593	BankApp	[main]	*********Developer details**********
+INFO	2021-07-30 15:56:52,688	10593	BankApp	[main]	Developed by Konari Sudharani
+INFO	2021-07-30 15:56:55,635	13540	BankApp	[main]	*********Developer details**********
+INFO	2021-07-30 15:56:55,635	13540	BankApp	[main]	Developed by Konari Sudharani
+INFO	2021-07-30 15:56:59,549	17454	BankApp	[main]	Help Line Number : 00000000
+INFO	2021-07-30 15:57:00,695	18600	BankApp	[main]	Frequently used questions
+INFO	2021-07-30 16:46:31,034	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 16:46:31 IST 2021
+INFO	2021-07-30 16:47:59,002	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 16:47:58 IST 2021
+INFO	2021-07-30 16:50:23,738	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 16:50:23 IST 2021
+INFO	2021-07-30 16:54:34,907	1	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Fri Jul 30 16:54:34 IST 2021
+INFO	2021-07-30 16:55:52,298	77392	BankApp	[main]	Customer status with Id 0 has been progressed
+ERROR	2021-07-30 16:56:25,725	110819	BankApp	[main]	Customer account with customerId 2 been declined.......
+ERROR	2021-07-30 16:56:45,186	130280	BankApp	[main]	Customer account with customerId 3 been declined.......
+ERROR	2021-07-30 16:57:40,989	186083	BankApp	[main]	Money is not transferred
+INFO	2021-07-30 16:58:25,325	230419	BankApp	[main]	Rs 100 is withdrawn from the account with Id 8374 and the remaining balance is INR 500
+INFO	2021-08-01 18:06:08,998	0	BankApp	[main]	Welcome, sudha to Bank App...you logged in at:Sun Aug 01 18:06:08 IST 2021
